@@ -12,6 +12,7 @@ It uses the following classification techniques:
 
 Instructions to run file:
     1) Set working directory to current folder. (This is required as the script references to the excel sheet present in this folder. If different excel has to be loaded please change path in readData())
+    
     2) Install the following packages (using install.packages(), code for this is present but commented in script to avoid reinstallation) 
 	i) rJava (Required for RIPPER and C4.5)	
 	ii) readxl (Required to read excel file)
